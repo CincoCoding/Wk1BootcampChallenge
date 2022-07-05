@@ -42,7 +42,7 @@ Low income people have always been exploited by loan sharks and predatory lendin
 
 2. Allow people to lend their money out on this app. Potential lenders could choose their target interest rate based on their risk tolerance level, similar to investing in an ETF. This way massive pools of decentralized liquidity could spur on the growth of the app. Lenders could also track the traits of who gets the money they lent out on a blockchain. Lenders could then try to arbitrage and get the best rate of return by creating lending strategies based on traits gathered by the app. This would lead to a "hive-mind" effect similar to the stock market resulting in extreme pricing efficency.
 
-### Sources
+## Sources
 Yahoo Finance - 
 https://finance.yahoo.com/company/inventure?h=eyJlIjoiaW52ZW50dXJlIiwibiI6IlRhbGEifQ==&.tsrc=fin-srch
 

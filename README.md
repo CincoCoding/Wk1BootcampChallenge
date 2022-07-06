@@ -2,7 +2,7 @@
 ## Case Study
 
 ### Summary
-Tala ia a microfinance company founded in 2011 by female CEO Shivani Siroya. They provide micro loans for people in poverty in Kenya, India, Mexico, and more. Users install an app on their phone which scans texts and email for receipts, invoices, transactions, and more. Tala also looks at how you use your phone to sleuth out trustworthiness. They look at what apps you're using, how often you use them, how many calls you make per day, how many contacts you have, how often you contact people, and more. Overall they use more than 10000 data points over a span of 90 days to get a sense of the daily life of their customers. This data is fed into a machine learning algorithm that determines credit-worthiness. 
+Tala is a microfinance company founded in 2011 by female CEO Shivani Siroya. They provide micro loans for people in poverty in Kenya, India, Mexico, and more. Users install an app on their phone which scans texts and email for receipts, invoices, transactions, and more. Tala also looks at how you use your phone to sleuth out trustworthiness. They look at what apps you're using, how often you use them, how many calls you make per day, how many contacts you have, how often you contact people, and more. Overall they use more than 10000 data points over a span of 90 days to get a sense of the daily life of their customers. This data is fed into a machine learning algorithm that determines credit-worthiness. 
 
 ### Financials
 * Thru a series of VC funding rounds Tala has raised approximately *$390M*.
@@ -40,7 +40,7 @@ Low income people have always been exploited by loan sharks and predatory lendin
 ### Recommendations to Tala
 1. Speed up how quickly money is sent to customers by using crypto. Someone can get signed up for the app & registered within 3 minutes according to Tala Founder Shivani Siroya. If we send them crypto they can literally spend this money within 5 minutes of downloading the app. 
 
-2. Allow people to lend their money out on this app. Potential lenders could choose their target interest rate based on their risk tolerance level, similar to investing in an ETF. This way massive pools of decentralized liquidity could spur on the growth of the app. Lenders could also track the traits of who gets the money they lent out on a blockchain. Lenders could then try to arbitrage and get the best rate of return by creating lending strategies based on traits gathered by the app. This would lead to a "hive-mind" effect similar to the stock market resulting in extreme pricing efficency.
+2. Allow people to lend their money out on this app. Potential lenders could choose their target interest rate based on their risk tolerance level, similar to investing in an ETF. This way massive pools of decentralized liquidity could spur on the growth of the app. Lenders could also track the traits of who gets the money they lent out on a blockchain. Lenders could then try to arbitrage and get the best rate of return by creating lending strategies based on traits gathered by the app. This would lead to a "hive-mind" effect similar to the stock market resulting in extreme pricing efficiency.
 
 ## Sources
 Yahoo Finance - 
